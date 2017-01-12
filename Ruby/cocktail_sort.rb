@@ -16,6 +16,6 @@ def cocktail_sort!
   self
 end
 
-
 # http://en.wikipedia.org/wiki/Cocktail_sort
+#
 # https://upload.wikimedia.org/wikipedia/commons/e/ef/Sorting_shaker_sort_anim.gif

@@ -13,7 +13,7 @@ class Array
   end
 end
 
-# https://ruby-china-files.b0.upaiyun.com/photo/2014/9c37b8be54c219e9edc5605376cadeeb.gif
-
 arr = [4,2,4,6,8,9,33,22,334,2,3,8,7,53,13]
 p arr.insert_sort!
+
+# https://ruby-china-files.b0.upaiyun.com/photo/2014/9c37b8be54c219e9edc5605376cadeeb.gif
